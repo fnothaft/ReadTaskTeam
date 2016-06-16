@@ -4,7 +4,7 @@
   <groupId>net.fnothaft</groupId>
   <artifactId>ga4gh-format</artifactId>
   <packaging>jar</packaging>
-  <version>0.1.0-SNAPSHOT</version>
+  <version>0.5.1</version>
 
   <parent>
     <groupId>org.sonatype.oss</groupId>
